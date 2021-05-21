@@ -5,8 +5,7 @@
 
 
 #predictions using Supervised ML
-#Yash Bhis
-
+#Aarushi Sharma
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as mt
